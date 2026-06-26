@@ -38,6 +38,9 @@ you're looking at the **HTML / Bootstrap** core:
   <a href="https://github.com/ColorlibHQ/adminlte-vue"><img height="36" alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"></a>
   <a href="https://github.com/ColorlibHQ/adminlte-laravel"><img height="36" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
   <a href="https://github.com/ColorlibHQ/adminlte-django"><img height="36" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="https://github.com/ColorlibHQ/adminlte-symfony"><img height="36" alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"></a>
+  <a href="https://github.com/ColorlibHQ/adminlte-angular"><img height="36" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+  <a href="https://github.com/ColorlibHQ/adminlte-aspnet"><img height="36" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 </p>
 
 | Edition | Repository | Live demo | Install |
@@ -47,6 +50,9 @@ you're looking at the **HTML / Bootstrap** core:
 | **Vue 3 & Nuxt** — 45+ typed components, composables, SSR-safe theming | [adminlte-vue](https://github.com/ColorlibHQ/adminlte-vue) | [themes/vue-nuxt](https://adminlte.io/themes/vue-nuxt/) | see repo |
 | **Laravel** — Blade components, config-driven menu, auth scaffolding | [adminlte-laravel](https://github.com/ColorlibHQ/adminlte-laravel) | [laravel.adminlte.io](https://laravel.adminlte.io/) | `composer require colorlibhq/adminlte-laravel` |
 | **Django** — reusable app, menu filter pipeline, themed admin | [adminlte-django](https://github.com/ColorlibHQ/adminlte-django) | [django.adminlte.io](https://django.adminlte.io/) | `pip install django-adminlte4` |
+| **Symfony** — Twig Components, AssetMapper, config-driven menu, EasyAdmin theme | [adminlte-symfony](https://github.com/ColorlibHQ/adminlte-symfony) | see repo | `composer require colorlibhq/adminlte-symfony` |
+| **Angular 22** — 44 standalone signal components, dark mode, ⌘K palette | [adminlte-angular](https://github.com/ColorlibHQ/adminlte-angular) | see repo | `npm i @adminlte/angular` |
+| **ASP.NET Core (.NET 10)** — Blazor components + MVC/Razor Pages Tag Helpers | [adminlte-aspnet](https://github.com/ColorlibHQ/adminlte-aspnet) | see repo | `dotnet add package ColorlibHQ.AdminLTE.AspNetCore` |
 
 Every edition ships the full AdminLTE 4 design — Bootstrap 5.3, dark mode, RTL — with
 idiomatic integrations for its stack (components, routing, auth, theming).
